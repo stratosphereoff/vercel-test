@@ -17,8 +17,8 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Get started by editing&nbsp;
-            <code className={styles.code}>pages/index.js</code>
+            Converted to&nbsp;
+            <code className={styles.code}>appDir exprerimental</code>
           </p>
           <div>
             <a
